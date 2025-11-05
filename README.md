@@ -16,9 +16,9 @@ Este projeto foi desenvolvido como parte da disciplina **Lógica de Programaçã
 
 ## 🧩 Estrutura do Projeto
 
-📂 Simulador-Caixa-Eletronico
-├── main.py # Módulo principal (fluxo do programa)
-├── minha_biblioteca.py # Biblioteca personalizada com as funções
+📂 Simulador-Caixa-Eletronico <br>
+├── main.py # Módulo principal (fluxo do programa)<br>
+├── minha_biblioteca.py # Biblioteca personalizada com as funções<br>
 └── README.md # Documentação do projeto
 
 
